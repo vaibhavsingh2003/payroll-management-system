@@ -1,0 +1,4 @@
+Code,Name,Email,Department,Designation,JoinDate,Basic,HRA,Allowances,TaxRate,PFRate
+EMP001,Ava Patel,ava@company.com,Engineering,Senior Engineer,2022-04-12,60000,18000,8000,10,12
+EMP002,Liam Chen,liam@company.com,Design,Product Designer,2023-01-09,50000,15000,6000,8,12
+EMP003,Noor Hassan,noor@company.com,Sales,Account Executive,2021-09-23,45000,13500,5000,8,12
